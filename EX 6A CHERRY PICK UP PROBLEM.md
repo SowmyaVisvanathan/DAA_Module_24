@@ -1,5 +1,5 @@
 # EX 6A CHERRY PICK UP PROBLEM
-## DATE: 13-05-25
+## DATE: 29-04-25
 ## AIM:
 To Create a python program for the following problem statement.
 - You are given an n x n grid representing a field of cherries, each cell is one of three possible integers.
